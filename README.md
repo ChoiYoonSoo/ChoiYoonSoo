@@ -2,8 +2,6 @@
 
 <div align=right>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoiYoonSoo&count_bg=%23B86E82&title_bg=%238C4040&icon=&icon_color=%23E7E7E7&title=Hi&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gews30025)](https://solved.ac/gews30025)
 
@@ -78,10 +76,6 @@
 <br>
 <br>
 <br>
-
-![ChoiYoonSoo's github stats](https://github-readme-stats.vercel.app/api?username=ChoiYoonSoo&show_icons=true&theme=moltack)
-
-[![ChoiYoonSoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiYoonSoo&show_icons=true&theme=moltack&hide_border=true&layout=compact)](https://github.com/ChoiYoonSoo)
 
 <br>
 <br>
