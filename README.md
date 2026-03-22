@@ -12,7 +12,7 @@
 <h2>👋 Welcome to ChoiYoonSoo GitHub!</h2>
 
 - 안녕하세요! 문제를 기술로 해결하고, 더 편리한 일상을 만드는 개발자 최윤수입니다.
-- 사용자가 조금 더 편하고 쉽게 서비스를 이용할 수 있는 방향을 고민하며 성장해 온 모바일 개발자입니다.
+- 사용자가 조금 더 편하고 쉽게 서비스를 이용할 수 있는 방향을 고민하며 성장해 온 개발자입니다.
 - <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/> 개발을 학습하며 성장하고 있습니다.
 
 <br>
