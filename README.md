@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello😊%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=This%20is%20iohcys%20GitHub!%20&descAlignY=55&descAlign=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello😊%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=This%20is%20ChoiYoonSoo%20GitHub!%20&descAlignY=55&descAlign=65)
 
 <div align=right>
 
@@ -23,12 +23,12 @@
 
 <h3>🌎 Contact & Channels</h3>
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/)
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=V&logoColor=white)](https://velog.io/@gews30025)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)](https://sandy-topaz-8dc.notion.site/a1e3c82efdd948b0aa663ef7c7262425?pvs=4)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white)](mailto:gews30025@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gews300255@gmail.com)
-<!--[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/)-->
-<!--[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/chldbstn_)-->
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/chldbstn_)
 
 </div>
 
